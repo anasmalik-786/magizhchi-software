@@ -1,0 +1,2 @@
+# magizhchi-software
+programming exercise
